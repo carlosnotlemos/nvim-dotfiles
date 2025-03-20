@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+export GEM_PATH="/home/carlos/.local/share/nvim/mason/packages/solargraph:$GEM_PATH"
+exec /home/carlos/.local/share/nvim/mason/packages/solargraph/bin/solargraph "$@"

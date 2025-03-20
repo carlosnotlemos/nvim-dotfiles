@@ -1,0 +1,1 @@
+{"name":"solargraph","links":{"opt":{},"bin":{"solargraph":"solargraph"},"share":{"mason-schemas\/lsp\/solargraph.json":"mason-schemas\/lsp.json"}},"metrics":{"start_time":1742262213321,"completion_time":1742262225382},"secondary_sources":[],"primary_source":{"id":"pkg:gem\/solargraph@0.52.0","type":"registry+v1"},"schema_version":"1.1"}

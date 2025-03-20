@@ -1,0 +1,11 @@
+fdfind --> export PATH="$HOME/.local/bin:$PATH"
+-------------------------------------------
+~/.local/share/nvim
+~/.config/nvim
+-------------------------------------------
+rm -rf ~/.config/nvim
+rm -rf ~/.local/share/nvim
+rm -rf ~/.local/state/nvim
+rm -rf ~/.local/cache/nvim
+
+
